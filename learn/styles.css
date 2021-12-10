@@ -1,0 +1,69 @@
+body {
+    background-image: linear-gradient(rgba(5, 7, 20, 0.803),rgba(37, 37, 46, 0.7)),url(clgpic.jpg);
+}
+.logo {
+    border-radius: 150px;
+    width: 50px;
+    display: flex;
+}
+.name{
+      color: white;
+      font-size: 50px;
+      text-align: center;
+      margin-top: 50px;
+      font-family:Castellar;
+}
+
+.slogan{
+    list-style: none;
+    display: inline-block;
+    padding:10px;
+    color: azure;
+    padding-top: 0px;
+    margin-top: 0px;
+    
+
+}
+.first-nav{
+           text-align: center;
+           padding:2%;
+}
+.buttons{
+         display: inline-block;
+         
+}        
+.buttons ul{
+            color: azure;
+            text-align: center;
+            
+}
+.buttons ul li{
+               display: inline-block;
+               padding: 6px 10px;
+               font-weight: bold;
+               font-family: Bahnschrift Lightan;
+               box-align: center;
+               font-weight: lighter;
+               font-display:inherit;
+
+} 
+button {
+    background:transparent;
+    border-radius: 2px;
+    padding: 0px;
+    margin: 0px;
+    color: #06fc6c;
+    display: inline-block;
+    border-color: rgb(214, 217, 221);
+    background-image: linear-gradient(to right ,rgba(22, 53, 192, 0.424),rgba(1, 10, 1, 0.219));
+
+}   
+h3{
+    text-align: center;
+    color:white;
+}
+
+h4{
+    color: white;
+    font-family: Adobe Song Std L;
+}
